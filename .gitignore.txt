@@ -1,0 +1,10 @@
+# Ignore all .log files
+*.log
+*.kicad_prl
+*.lck
+fp-info-cache
+
+# Ignore node_modules directory
+vfd_display-backups/
+
+# Ignore all files in the temp
