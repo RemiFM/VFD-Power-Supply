@@ -1,4 +1,4 @@
-22350235080739321
+22355384017842127
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83881,6 +83881,13 @@ HADOC_UCM_Connector
 60
 60
 Remi_Footprints
+M20-8900405
+
+
+0
+4
+4
+Remi_Footprints
 Micro Metal Gearmotor HPCB
 
 
@@ -83958,6 +83965,13 @@ TE_1_2834011_2
 2
 2
 Remi_Footprints
+TSOT26
+AP62250WU-7
+
+0
+6
+6
+Remi_Footprints
 Teensy_4.0
 
 
@@ -83987,6 +84001,13 @@ VFD_GP1294AI
 31
 Remi_Footprints
 drone_symbol
+
+
+0
+0
+0
+Remi_Footprints
+fallout_boy_28mm
 
 
 0
