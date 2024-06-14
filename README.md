@@ -10,7 +10,7 @@ Power supply for the GP1294AI & GP1278BI (also marketed as VFD25648) vacuum fluo
 The VFD Display can be soldered to the front of the PCB. All components of the power supply are surface-mount technology (SMT) and are placed on the backside of the PCB. Only connect the display to the PCB after verifying all voltages on the power supply using the provided measuring points. The display can be controlled using any microcontroller that uses 3V3 logic (ESP32, Raspberry Pi...) using the general purpose 2.54mm male headers on the board.
 
 ## Ordering PCB
-The production files necessary for manufacturing are bundled in the compressed folders [export/export/GP1294AI.zip.zip](export/GP1294AI.zip) or [export/export/GP1278BI.zip.zip](export/GP1278BI.zip), depending on the specific VFD display used. The gerber files are generated according to the guidelines of fabrication house JLCPCB. It is recommended to order the PCB from JLCPCB by uploading the compressed folder to their website, but other manufacturers (PCBWay, Eurocircuits...) should work as well.
+The production files necessary for manufacturing are bundled in the compressed folders [export/GP1294AI.zip](export/GP1294AI.zip) or [export/GP1278BI.zip](export/GP1278BI.zip), depending on the specific VFD display used. The gerber files are generated according to the guidelines of fabrication house JLCPCB. It is recommended to order the PCB from JLCPCB by uploading the compressed folder to their website, but other manufacturers (PCBWay, Eurocircuits...) should work as well.
 
 ## Ordering Components
 A bill of materials (BOM) is available for download. The BOM contains Digi-Key part numbers, and is formatted in a way that can be uploaded to the Digi-Key website for effortless ordering.
